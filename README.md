@@ -1,11 +1,13 @@
 # U.S Teen Birth Rate 
 
-This is a completion of the 6 weeks Final Project requirement of the Entity Academy / Woz-U Data Science curriculum by Lucy Thuku and Virginia Mburu Brovant.
+This is a completion of the Final Project requirement of the Entity Academy / Woz-U Data Science curriculum by Lucy Thuku and Virginia Mburu Brovant.
 
 # Background
 
 The purpose of this project is to explore the rates in teenage births in the United States for a certain period.(2014-2020)
 The team members chose this topic because they were both curios to see how the number of teen births in the United States has changed over the years and if there were any significant regional differences in the number of births. The topic was inspired by their own personal challenges as young mothers.
+
+![image](https://user-images.githubusercontent.com/95771982/159148667-2bafe6ab-430a-4394-9acb-c55c1730a49d.png)
 
 # Datasets
 
@@ -13,7 +15,7 @@ CDC.gov, Americashealthrankings.org, youth.gov, worldhealthorgarnization.int,un.
 
 # Code
 
-https://github.com/lucythuku/HappyCoders/blob/main/Week%202/Data%20Wrangling-%20Lucy/Teen%20Birth%20Rates.ipynb
+https://github.com/lucythuku/HappyCoders/blob/main/Code/Teen%20Birth%20Rates.ipynb
 
 # Tableau Dashboard
 
