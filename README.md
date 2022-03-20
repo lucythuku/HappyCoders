@@ -11,11 +11,21 @@ The team members chose this topic because they were both curios to see how the n
 
 # Scope
 What is the trend of teen birth rate in the U.S?
+
+
 Whis is the State with highest teen birth rate and the State with the lowest teen birth rate?
 
 # Datasets
 
-CDC.gov, Americashealthrankings.org, youth.gov, worldhealthorgarnization.int,un.org
+CDC.gov, 
+
+Americashealthrankings.org, 
+
+youth.gov, 
+
+worldhealthorgarnization.int,
+
+un.org
 
 # Code
 
