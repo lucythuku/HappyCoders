@@ -1,6 +1,6 @@
 # U.S Teen Birth Rate 
 
-This is a completion of the 6 weeks Final Project requirement of the Entity Academy / Woz-U Data Science curriculum by Lucy Thuku and Virginia Mburu Brovant.
+This is a completion of the Final Project requirement of the Entity Academy / Woz-U Data Science curriculum by Lucy Thuku and Virginia Mburu Brovant.
 
 # Background
 
