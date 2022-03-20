@@ -13,7 +13,7 @@ CDC.gov, Americashealthrankings.org, youth.gov, worldhealthorgarnization.int,un.
 
 # Code
 
-https://github.com/lucythuku/HappyCoders/blob/main/Week%202/Data%20Wrangling-%20Lucy/Teen%20Birth%20Rates.ipynb
+https://github.com/lucythuku/HappyCoders/blob/main/Code/Teen%20Birth%20Rates.ipynb
 
 # Tableau Dashboard
 
