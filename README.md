@@ -11,6 +11,10 @@ The team members chose this topic because they were both curios to see how the n
 
 CDC.gov, Americashealthrankings.org, youth.gov, worldhealthorgarnization.int,un.org
 
+# Code
+
+https://github.com/lucythuku/HappyCoders/blob/main/Week%202/Data%20Wrangling-%20Lucy/Teen%20Birth%20Rates.ipynb
+
 # Data Wrangling
 
 After gathering the data, there was a bit of reformatting that was done using Python on Jupyter Notebook. Much of this reformatting was an attribute of reclassification, which involved converting data from a string format to something more appropriate such as date. The data was also trimmed down to its most concise, useful form to make the rows and columns as simple as possible while still providing useful insight.
