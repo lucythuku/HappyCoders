@@ -35,6 +35,8 @@ https://github.com/lucythuku/HappyCoders/blob/main/Code/Teen%20Birth%20Rates.ipy
 
 https://public.tableau.com/app/profile/lucy.thuku/viz/DataScienceFinalProject_16473136375310/Dashboard1?publish=yes
 
+https://public.tableau.com/app/profile/lucy.thuku/viz/DataScienceFinalProject_16473136375310/Dashboard2?publish=yes
+
 # Data Wrangling
 
 After gathering the data, there was a bit of reformatting that was done using Python on Jupyter Notebook. Much of this reformatting was an attribute of reclassification, which involved converting data from a string format to something more appropriate such as date. The data was also trimmed down to its most concise, useful form to make the rows and columns as simple as possible while still providing useful insight.
