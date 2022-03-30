@@ -56,6 +56,8 @@ Based on the results and findings from their analysis, visualizations were creat
 # Data Reporting and Presentation
 
 Project was presented via Zoom on March 21st 2020 to Woz U / Entity Academy faculty.
+
+
 https://vimeo.com/690764049
 
 
